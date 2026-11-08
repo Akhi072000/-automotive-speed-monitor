@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-#define SPEED_LIMIT 120
+#define SPEED_LIMIT 130
 
 int main(void)
 {
